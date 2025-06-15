@@ -1,0 +1,10 @@
+Início
+    Escreva("Digite um número:")
+    Leia número
+
+    Se número % 2 == 0 então
+        Escreva("O número é PAR")
+    Senão
+        Escreva("O número é ÍMPAR")
+    FimSe
+Fim
